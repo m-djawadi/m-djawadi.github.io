@@ -11,11 +11,15 @@ professional experiences, impactful projects, and contributions to academic rese
 ---
 
 ### Technical Skills
-- **Programming Languages**: Python, R
-- **Database Management**: SQL
-- **Cloud Platforms**: Google Cloud Platform (GCP)
-- **Data Visualization Tools**: Looker, Tableau
-- **Machine Learning**: XGboost, CNNs, LSTM, BiLSTM, Wav2vec
+
+- **Programming Languages**: Proficient in Python, R, and SQL for data analysis, manipulation, and scripting.
+- **Machine Learning & AI**: Experienced in Natural Language Processing, Time Series Forecasting, Speech Emotion Recognition, and Recommendation Systems. Proficient with models such as XGboost, CNNs, LSTM, BiLSTM, Wav2vec.
+- **Data Visualization**: Skilled in creating insightful visualizations and dashboards using Tableau, Power BI, and Looker.
+- **Data Manipulation & Analysis**: Advanced skills in data manipulation and analysis using Pandas, NumPy (Python), and dplyr (R).
+- **Big Data & Cloud Technologies**: Experienced in working with big data technologies like Apache Spark, and cloud platforms including Google Cloud Platform (GCP), Azure, and BigQuery.
+- **Statistical Analysis**: Profound knowledge in statistical analysis techniques including Generalized Linear Models, Regression & Survival Analysis, and A/B testing.
+- **Languages**: Multilingual with proficiency in Persian, English, French, and Azeri, enabling effective communication in diverse environments.
+
 
 ---
 
