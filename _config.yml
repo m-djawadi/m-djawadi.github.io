@@ -1,28 +1,4 @@
-# Site settings
 title: Mahdi Javadi
-description: "Data Scientist Portfolio"
-url: "https://m-djawadi.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g., leave empty if not applicable
-
-# Build settings
-theme: beautiful-jekyll
-remote_theme: daattali/beautiful-jekyll
-
-# Social links
-social_links:
-  - title: Twitter
-    url: https://twitter.com/mahDI_javaDI
-    icon: twitter
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/m-javadi/
-    icon: linkedin
-  - title: GitHub
-    url: https://github.com/m-djawadi
-    icon: github
-
-# Owner/author information
-author:
-  name: Mahdi Javadi
-  avatar: /assets/img/headshot_circle.png
-  bio: "Passionate Data Scientist with expertise in driving data-driven solutions."
-  email: Themahdijavadi@gmail.com
+logo: /assets/img/headshot_circle.png
+#description: text below image
+theme: jekyll-theme-minimal
