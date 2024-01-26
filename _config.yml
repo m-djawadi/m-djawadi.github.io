@@ -1,4 +1,24 @@
-title: Mahdi Javadi 
+title: Mahdi Javadi
 logo: /assets/img/headshot_circle.png
-#description: text below image
 theme: jekyll-theme-minimal
+
+# Customizations
+favicon: /path/to/favicon.ico
+
+# Navigation
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
+
+# Social Media Links
+social_links:
+  twitter: https://twitter.com/mahDI_javaDI
+  linkedin: https://www.linkedin.com/in/m-javadi/
+  github: https://github.com/m-djawadi
+
+# Custom CSS
+style: /assets/css/style.scss
