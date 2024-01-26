@@ -1,6 +1,12 @@
-# Welcome to My Data Scientist Portfolio
+# Summary
 
-Greetings! I am a passionate Data Scientist dedicated to leveraging the transformative power of data to inform strategic decision-making and foster innovation. With a strong foundation in analytics and a commitment to continuous learning, I strive to uncover insights that drive meaningful change. In this portfolio, you will discover a comprehensive overview of my technical expertise, educational background, professional experiences, notable projects, and scholarly publications. 
+Welcome! As an experienced Data Scientist, my expertise lies in harnessing the vast 
+potential of data to drive strategic decision-making and innovation. My background 
+combines a robust analytical skill set with a proven track record in applying data 
+science methodologies across various industries. This portfolio showcases my journey 
+in the field, highlighting my technical skills, advanced education, diverse 
+professional experiences, impactful projects, and contributions to academic research.
+
 
 ---
 
