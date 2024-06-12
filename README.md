@@ -35,6 +35,12 @@ professional experiences, impactful projects, and contributions to academic rese
 
 ### Professional Experience
 
+#### Data Scientist @ Pricepoint
+*(Mar 2024 - Jun 2024)*
+- Developed forecasting models using Time Series analysis, Machine Learning techniques, and Pick-Up models, significantly improving room booking predictions for hotels.
+- Led the implementation of comprehensive validation processes, ensuring robust and reliable predictions.
+
+
 #### Business Analyst @ TELUS
 *(Jan 2023 - Dec 2023)*
 - Developed dashboards and reports with Looker and Tableau.
