@@ -37,8 +37,8 @@ professional experiences, impactful projects, and contributions to academic rese
 
 #### Data Scientist @ Pricepoint
 *(Mar 2024 - Jun 2024)*
-- Developed forecasting models using Time Series analysis, Machine Learning techniques, and Pick-Up models, significantly improving room booking predictions for hotels.
-- Led the implementation of comprehensive validation processes, ensuring robust and reliable predictions.
+- Developed forecasting models using Time Series analysis, Machine Learning, and Pick-Up models, achieving a nearly 25% increase in room booking prediction accuracy and enhancing pricing strategies.
+- Conducted in-depth analysis of booking patterns, customer behavior, and market trends, further optimizing forecasting accuracy and operational efficiency.
 
 
 #### Business Analyst @ TELUS
