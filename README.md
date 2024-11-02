@@ -35,6 +35,17 @@ professional experiences, impactful projects, and contributions to academic rese
 
 ### Professional Experience
 
+
+
+#### Senior Analyst @ PSP Investments
+*(Oct 2024 - Current)*
+- Utilize Workday, Power BI, Azure, Python, and R to build comprehensive HR analytics dashboards and
+reports, enhancing data-driven decision-making and delivering insights for HR stakeholders.
+- Design and implement relational data models and establish standardized data definitions to ensure data
+accuracy, consistency, and accessibility across HR systems, in collaboration with HRIS and Technology teams.
+
+
+
 #### Data Scientist @ Pricepoint
 *(Mar 2024 - Jun 2024)*
 - Developed forecasting models using Time Series analysis, Machine Learning, and Pick-Up models, achieving a nearly 25% increase in room booking prediction accuracy and enhancing pricing strategies.
