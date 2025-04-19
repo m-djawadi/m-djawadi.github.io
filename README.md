@@ -38,7 +38,7 @@ professional experiences, impactful projects, and contributions to academic rese
 
 
 #### Senior Analyst @ PSP Investments
-*(Oct 2024 - Current)*
+*(Oct 2024 - Feb 2025)*
 - Utilize Workday, Power BI, Azure, Python, and R to build comprehensive HR analytics dashboards and
 reports, enhancing data-driven decision-making and delivering insights for HR stakeholders.
 - Design and implement relational data models and establish standardized data definitions to ensure data
