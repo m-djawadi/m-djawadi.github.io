@@ -1,5 +1,11 @@
+# title: Mahdi Javadi
+# logo: /assets/img/headshot_circle.png
+# #description: text below image
+# theme: jekyll-theme-minimal
+# favicon: /assets/img/headshot_circle.png  
+
+
 title: Mahdi Javadi
 logo: /assets/img/headshot_circle.png
-#description: text below image
-theme: jekyll-theme-minimal
-favicon: /assets/img/headshot_circle.png  
+theme: jekyll-theme-cayman
+favicon: /assets/img/headshot_circle.png
