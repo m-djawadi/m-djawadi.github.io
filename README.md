@@ -51,7 +51,7 @@ Data scientist and engineer with expertise in applied machine learning, statisti
 ## 🎓 Education  
 
 - 🎓 **M.Sc. Data Science & Business Analytics** — HEC Montréal *(2023)*  
-- 🏗️ **M.Sc. Industrial Engineering** — Toronto Metropolitan University *(2019)*  
+- 🏗️ **M.Sc. Industrial Engineering** — Tarbiat Modares University *(2019)*  
 - ⚙️ **B.Sc. Industrial Engineering** — Iran University of Science & Technology *(2017)*  
 
 ---
