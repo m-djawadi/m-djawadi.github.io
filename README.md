@@ -1,68 +1,81 @@
-# Mahdi Javadi
-### Data Scientist | Forecasting | NLP | HR Analytics
+# Mahdi Javadi  
+### Data Scientist | Forecasting 📈 | NLP 🧠 | HR Analytics 📊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/m-javadi)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:themahdijavadi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/m-javadi)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:themahdijavadi@gmail.com)  
 [![Language](https://img.shields.io/badge/Languages-English%20%7C%20French%20%7C%20Persian%20%7C%20Azerbaijani-green)]()
 
-## Professional Summary
+---
+
+## 💼 Professional Summary  
 Data scientist and engineer with expertise in applied machine learning, statistical modeling, and data visualization. Specialized in developing and implementing solutions across HR analytics, pricing strategies, recommender systems, and emotion recognition applications. Committed to transforming complex data into actionable insights and compelling narratives that drive business decisions.
 
-## Technical Expertise
+---
 
-#### Programming & Analysis
-- **Languages**: Python, R, SQL
-- **Statistical Methods**: Regression Analysis, GLMs, Survival Analysis, A/B Testing
-- **Machine Learning**: NLP, Time Series Forecasting, Recommender Systems, Speech Recognition
+## 🛠️ Technical Expertise
 
-#### Data Visualization & Infrastructure
-- **Business Intelligence**: Power BI, Tableau, Looker
-- **Cloud & Big Data**: Google Cloud Platform, Microsoft Azure, BigQuery, Apache Spark
+### 👨‍💻 Programming & Analysis
+- **Languages**: Python 🐍, R 📊, SQL 💾  
+- **Methods**: Regression, GLMs, Survival Analysis, A/B Testing  
+- **ML Specialties**: NLP, Time Series, Recommender Systems, Speech Emotion Recognition  
 
-## Professional Experience
-
-### Senior Analyst | PSP Investments
-*2024 - 2025*
-- Engineered comprehensive HR analytics dashboards integrating Workday data with Power BI and Python
-- Designed and implemented relational data models to standardize HR metrics and reporting
-- Collaborated with stakeholders to translate business requirements into analytical frameworks
-
-### Data Scientist | Pricepoint
-*2024*
-- Enhanced booking prediction accuracy by 25% through advanced time series modeling and machine learning algorithms
-- Analyzed historical pricing patterns to optimize revenue management strategies
-- Implemented automated data pipelines for real-time pricing recommendations
-
-### Business Intelligence Analyst | TELUS
-*2023*
-- Created interactive dashboards in Tableau and Looker for cross-functional performance monitoring
-- Developed speech emotion recognition models using audio feature extraction and deep learning
-- Streamlined reporting processes, reducing report generation time by 40%
-
-## Education
-
-- **M.Sc. Data Science & Business Analytics** | HEC Montréal (2023)
-- **M.Sc. Industrial Engineering** | Toronto Metropolitan University (2019)
-- **B.Sc. Industrial Engineering** | Iran University of Science and Technology (2017)
-
-## Featured Projects
-
-#### Emotion Recognition System
-Developed a deep learning architecture for audio-based emotion detection utilizing feature extraction techniques and neural networks for real-time analysis.
-
-#### NLP-Powered Research Paper Classification
-Created an automated system to classify academic papers by research domain using natural language processing and topic modeling.
-
-#### Advanced Recommender System
-Implemented collaborative filtering and content-based algorithms enhanced with deep learning for personalized content recommendations.
-
-#### Energy Load Forecasting
-Designed ensemble models combining statistical methods and machine learning for accurate electricity demand predictions.
-
-## Research Publication
-
-"The impact of recency and adequacy of historical information on sepsis predictions using ML" (2022)  
-[Google Scholar](https://scholar.google.com/citations?user=GtI11zYAAAAJ&hl=en)
+### 📊 Data Visualization & Infrastructure  
+- **BI Tools**: Power BI, Tableau, Looker  
+- **Cloud & Big Data**: GCP ☁️, Azure 🚀, BigQuery, Apache Spark ⚡
 
 ---
-*Based in Canada | Available for consulting and collaboration opportunities*
+
+## 💼 Experience Highlights
+
+### 👨‍💼 Senior Analyst — *PSP Investments*  
+📍 *Montreal, Canada | 2024–2025*  
+- Built end-to-end HR dashboards powered by Workday + Power BI + Python  
+- Created robust data models to unify HR metrics across business units  
+- Acted as liaison between HR and analytics teams to deliver insights that matter  
+
+### 📈 Data Scientist — *Pricepoint*  
+📍 *Montreal, Canada | 2024*  
+- Improved forecasting accuracy by 25% through machine learning on booking data  
+- Mined historical pricing data to fine-tune revenue optimization  
+- Automated real-time pricing pipeline for smarter decision-making  
+
+### 📊 BI Analyst — *TELUS*  
+📍 *Montreal, Canada | 2023*  
+- Built dynamic dashboards in Tableau & Looker for CX leadership  
+- Developed emotion detection models from audio using CNNs & LSTMs  
+- Cut down report prep time by 40% with automated workflows  
+
+---
+
+## 🎓 Education  
+
+- 🎓 **M.Sc. Data Science & Business Analytics** — HEC Montréal *(2023)*  
+- 🏗️ **M.Sc. Industrial Engineering** — Toronto Metropolitan University *(2019)*  
+- ⚙️ **B.Sc. Industrial Engineering** — Iran University of Science & Technology *(2017)*  
+
+---
+
+## 🚀 Featured Projects
+
+### 🎙️ Emotion Recognition System  
+Deep learning pipeline for detecting emotional tone in speech using neural nets + feature extraction.
+
+### 🧾 NLP-Powered Research Classifier  
+Classifies academic paper abstracts into disciplines using topic modeling & vectorization techniques.
+
+### 📽️ Smart Recommender System  
+Built a hybrid recommendation engine with collaborative filtering & deep learning enhancements.
+
+### ⚡ Energy Load Forecasting  
+Ensemble model combining statistical + ML techniques for predicting electricity demand trends.
+
+---
+
+## 🧠 Research Publication  
+
+📄 *"The impact of recency and adequacy of historical information on sepsis predictions using ML"* (2022)  
+🔗 [View on Google Scholar](https://scholar.google.com/citations?user=GtI11zYAAAAJ&hl=en)
+
+---
+
+🌍 *Based in Canada | Open to collaborations, consulting, and data science side quests* ✉️
