@@ -21,7 +21,7 @@ Data scientist with experience in forecasting, pricing, personalization, and beh
 
 ### 📊 Data Visualization & Infrastructure
 - **BI Tools**: Power BI 📊 | Tableau 📈 | Looker 🧮  
-- **Cloud Platforms**: Google Cloud Platform (GCP) ☁️ | Microsoft Azure 🚀  
+- **Cloud Platforms**: GCP ☁️| Azure 🚀  
 - **Big Data Tools**: BigQuery 🔍 | Databricks 🧱 | Apache Spark ⚡
 
 ---
