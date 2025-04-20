@@ -15,7 +15,7 @@ Data scientist and engineer with expertise in applied machine learning, statisti
 ## 🛠️ Technical Expertise
 
 ### 👨‍💻 Programming & Analysis
-- **Languages**: Python 🐍, R 📊, SQL 💾  
+- **Languages**: Python 🐍, R 📘, SQL 🗄️  
 - **Methods**: Regression, GLMs, Survival Analysis, A/B Testing  
 - **ML Specialties**: NLP, Time Series, Recommender Systems, Speech Emotion Recognition  
 
