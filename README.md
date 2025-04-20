@@ -1,5 +1,5 @@
 # Mahdi Javadi  
-### Data Scientist | Forecasting 📈 | NLP 🧠 | HR Analytics 📊
+### Data Scientist | Forecasting 📈 | NLP 🧠 | Analytics 📊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/m-javadi)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:themahdijavadi@gmail.com)  
@@ -17,11 +17,12 @@ Data scientist and engineer with expertise in applied machine learning, statisti
 ### 👨‍💻 Programming & Analysis
 - **Languages**: Python 🐍, R 📘, SQL 🗄️  
 - **Methods**: Regression, GLMs, Survival Analysis, A/B Testing  
-- **ML Specialties**: NLP, Time Series, Recommender Systems, Speech Emotion Recognition  
+- **ML Specialties**: Forecasting, NLP, Time Series, Recommender Systems, Speech Emotion Recognition  
 
-### 📊 Data Visualization & Infrastructure  
-- **BI Tools**: Power BI, Tableau, Looker  
-- **Cloud & Big Data**: GCP ☁️, Azure 🚀, BigQuery, Apache Spark ⚡
+### 📊 Data Visualization & Infrastructure
+- **BI Tools**: Power BI 📊 | Tableau 📈 | Looker 🧮  
+- **Cloud Platforms**: Google Cloud Platform (GCP) ☁️ | Microsoft Azure 🚀  
+- **Big Data Tools**: BigQuery 🔍 | Databricks 🧱 | Apache Spark ⚡
 
 ---
 
