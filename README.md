@@ -8,7 +8,7 @@
 ---
 
 ## 💼 Professional Summary  
-Data scientist and engineer with expertise in applied machine learning, statistical modeling, and data visualization. Specialized in developing and implementing solutions across HR analytics, pricing strategies, recommender systems, and emotion recognition applications. Committed to transforming complex data into actionable insights and compelling narratives that drive business decisions.
+Data scientist with experience in forecasting, pricing, personalization, and behavioral modeling. Committed to delivering actionable insights and building scalable solutions. Continuously driven to learn, adapt, and apply new approaches to solve real-world challenges.
 
 ---
 
