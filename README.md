@@ -28,6 +28,16 @@ Data scientist with experience in forecasting, pricing, personalization, and beh
 
 ## 💼 Experience Highlights
 
+### 👩‍💻 Data Scientist, People Analytics — *Fasken*
+
+📍 *Toronto, Canada | May 2025–Present*
+
+* Built end-to-end **attrition-risk modeling** pipeline using Logistic Regression, XGBoost, Cox PH, Weibull AFT, and Random Survival Forests
+* Engineered **50+ HR features** and produced calibrated employee-level risk scores translated into actionable retention strategies
+* Automated **UKG → Azure Data Lake ingestion** and enabled Power BI + IBM Cognos reporting through UKG APIs
+* Applied **Cross-Lagged Panel Modeling (CLPM)** to multi-wave surveys to uncover directional drivers of engagement and retention for targeted HR interventions
+
+
 ### 👨‍💼 Senior Analyst — *PSP Investments*  
 📍 *Montreal, Canada | 2024–2025*  
 - Built end-to-end HR dashboards powered by Workday + Power BI + Python  
