@@ -8,24 +8,9 @@
 
 ---
 
-## 💼 Professional Summary  
+## ✍🏻 Bio
 Data scientist with experience in forecasting, pricing, personalization, and behavioral modeling. Committed to delivering actionable insights and building scalable solutions. Continuously driven to learn, adapt, and apply new approaches to solve real-world challenges.
 
----
-
-## 🛠️ Technical Expertise
-
-### 👨‍💻 Programming & Analysis
-- **Languages**: Python 🐍, R 📘, SQL 🗄️  
-- **Methods**: Regression, GLMs, Survival Analysis, A/B Testing  
-- **ML Specialties**: Forecasting, NLP, Time Series, Recommender Systems, Speech Emotion Recognition  
-
-### 📊 Data Visualization & Infrastructure
-- **BI Tools**: Power BI 📊 | Tableau 📈 | Looker 🧮  
-- **Cloud Platforms**: GCP ☁️| Azure 🚀  
-- **Big Data Tools**: BigQuery 🔍 | Databricks 🧱 | Apache Spark ⚡
-
----
 
 ## 💼 Experience Highlights
 
@@ -61,22 +46,6 @@ Data scientist with experience in forecasting, pricing, personalization, and beh
 - 🎓 **M.Sc. Data Science & Business Analytics** — HEC Montréal *(2023)*  
 - 🏗️ **M.Sc. Industrial Engineering** — Tarbiat Modares University *(2019)*  
 - ⚙️ **B.Sc. Industrial Engineering** — Iran University of Science & Technology *(2017)*  
-
----
-
-## 🚀 Featured Projects
-
-### 🎙️ Emotion Recognition System  
-Deep learning pipeline for detecting emotional tone in speech using neural nets + feature extraction.
-
-### 🧾 NLP-Powered Research Classifier  
-Classifies academic paper abstracts into disciplines using topic modeling & vectorization techniques.
-
-### 📽️ Smart Recommender System  
-Built a hybrid recommendation engine with collaborative filtering & deep learning enhancements.
-
-### ⚡ Energy Load Forecasting  
-Ensemble model combining statistical + ML techniques for predicting electricity demand trends.
 
 ---
 
