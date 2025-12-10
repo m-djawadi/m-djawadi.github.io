@@ -29,33 +29,30 @@ Data scientist with experience in forecasting, pricing, personalization, and beh
 
 ## 💼 Experience Highlights
 
-### 👩‍💻 Data Scientist, People Analytics — *Fasken*
-
+### 👩‍💻 **Data Scientist, People Analytics** — *Fasken*
 📍 *Toronto, Canada | May 2025–Present*
+- Built end-to-end **attrition-risk modeling pipeline** using Logistic Regression, XGBoost, Cox PH, Weibull AFT, and Random Survival Forests  
+- Engineered **50+ HR features** and produced calibrated employee-level risk scores translated into actionable retention strategies  
+- Automated **UKG → Azure Data Lake ingestion**, enabling Power BI + IBM Cognos reporting through UKG APIs  
+- Applied **Cross-Lagged Panel Modeling (CLPM)** to multi-wave surveys to uncover directional drivers of engagement and retention  
 
-* Built end-to-end **attrition-risk modeling** pipeline using Logistic Regression, XGBoost, Cox PH, Weibull AFT, and Random Survival Forests
-* Engineered **50+ HR features** and produced calibrated employee-level risk scores translated into actionable retention strategies
-* Automated **UKG → Azure Data Lake ingestion** and enabled Power BI + IBM Cognos reporting through UKG APIs
-* Applied **Cross-Lagged Panel Modeling (CLPM)** to multi-wave surveys to uncover directional drivers of engagement and retention for targeted HR interventions
+### 👨‍💼 **Senior Analyst, People Analytics** — *PSP Investments*
+📍 *Montreal, Canada | 2024–2025*
+- Built enterprise-grade HR dashboards powered by Workday + Power BI + Python  
+- Designed scalable data models unifying metrics across business units  
+- Acted as liaison between HR and analytics teams to deliver insights impacting strategic decisions  
 
+### 📈 **Data Scientist** — *Pricepoint*
+📍 *Montreal, Canada | 2024*
+- Improved forecasting accuracy by **25%** using advanced ML techniques on booking data  
+- Mined historical pricing trends to fine-tune revenue optimization  
+- Built automated real-time pricing pipeline for smarter decision-making  
 
-### 👨‍💼 Senior Analyst — *PSP Investments*  
-📍 *Montreal, Canada | 2024–2025*  
-- Built end-to-end HR dashboards powered by Workday + Power BI + Python  
-- Created robust data models to unify HR metrics across business units  
-- Acted as liaison between HR and analytics teams to deliver insights that matter  
-
-### 📈 Data Scientist — *Pricepoint*  
-📍 *Montreal, Canada | 2024*  
-- Improved forecasting accuracy by 25% through machine learning on booking data  
-- Mined historical pricing data to fine-tune revenue optimization  
-- Automated real-time pricing pipeline for smarter decision-making  
-
-### 📊 BI Analyst — *TELUS*  
-📍 *Montreal, Canada | 2023*  
-- Built dynamic dashboards in Tableau & Looker for CX leadership  
-- Developed emotion detection models from audio using CNNs & LSTMs  
-- Cut down report prep time by 40% with automated workflows  
+### 📊 **BI Analyst** — *TELUS*
+📍 *Montreal, Canada | 2023*
+- Built dynamic Tableau & Looker dashboards for CX leadership  
+- Developed speech-emotion detection models using CNNs & LSTMs  
+- Reduced reporting preparation time by **40%** through automation  
 
 ---
 
