@@ -1,3 +1,4 @@
+
 # Mahdi Javadi  
 ### Data Scientist | Forecasting 📈 | NLP 🧠 | Analytics 📊
 
@@ -5,92 +6,88 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:themahdijavadi@gmail.com)  
 [![Language](https://img.shields.io/badge/Languages-English%20%7C%20French%20%7C%20Persian%20%7C%20Azerbaijani-green)]()
 
+---
 
-💼 Professional Summary
+## 💼 Professional Summary  
+Data scientist with experience in forecasting, pricing, personalization, and behavioral modeling. Committed to delivering actionable insights and building scalable solutions. Continuously driven to learn, adapt, and apply new approaches to solve real-world challenges.
 
-Data Scientist specializing in forecasting, pricing, behavioral modeling, and NLP. Experienced in designing scalable analytics solutions, transforming complex data into insights, and building predictive models that drive business value. Passionate about learning, problem-solving, and shaping decisions through data.
+---
 
-🛠 Technical Expertise
-👨‍💻 Programming & Analysis
+## 🛠️ Technical Expertise
 
-Languages: Python, R, SQL
+### 👨‍💻 Programming & Analysis
+- **Languages**: Python 🐍, R 📘, SQL 🗄️  
+- **Methods**: Regression, GLMs, Survival Analysis, A/B Testing  
+- **ML Specialties**: Forecasting, NLP, Time Series, Recommender Systems, Speech Emotion Recognition  
 
-Statistical Methods: GLMs, Regression, Survival Analysis, Experimental Design & A/B Testing
+### 📊 Data Visualization & Infrastructure
+- **BI Tools**: Power BI 📊 | Tableau 📈 | Looker 🧮  
+- **Cloud Platforms**: GCP ☁️| Azure 🚀  
+- **Big Data Tools**: BigQuery 🔍 | Databricks 🧱 | Apache Spark ⚡
 
-Machine Learning: Forecasting, NLP, Time Series, Recommender Systems, Speech Emotion Recognition
+---
 
-📊 Data Visualization & Infrastructure
+## 💼 Experience Highlights
 
-BI Tools: Power BI, Tableau, Looker
+### 👩‍💻 Data Scientist, People Analytics — *Fasken*
 
-Cloud Platforms: Azure, GCP
+📍 *Toronto, Canada | May 2025–Present*
 
-Big Data & Processing: BigQuery, Databricks, Apache Spark
+* Built end-to-end **attrition-risk modeling** pipeline using Logistic Regression, XGBoost, Cox PH, Weibull AFT, and Random Survival Forests
+* Engineered **50+ HR features** and produced calibrated employee-level risk scores translated into actionable retention strategies
+* Automated **UKG → Azure Data Lake ingestion** and enabled Power BI + IBM Cognos reporting through UKG APIs
+* Applied **Cross-Lagged Panel Modeling (CLPM)** to multi-wave surveys to uncover directional drivers of engagement and retention for targeted HR interventions
 
-💼 Experience Highlights
-Data Scientist — People Analytics | Fasken
 
-📍 Toronto, Canada | 2025–Present
+### 👨‍💼 Senior Analyst — *PSP Investments*  
+📍 *Montreal, Canada | 2024–2025*  
+- Built end-to-end HR dashboards powered by Workday + Power BI + Python  
+- Created robust data models to unify HR metrics across business units  
+- Acted as liaison between HR and analytics teams to deliver insights that matter  
 
-Built end-to-end attrition risk modeling with Logistic Regression, XGBoost, Cox PH, Weibull AFT & Random Survival Forests
+### 📈 Data Scientist — *Pricepoint*  
+📍 *Montreal, Canada | 2024*  
+- Improved forecasting accuracy by 25% through machine learning on booking data  
+- Mined historical pricing data to fine-tune revenue optimization  
+- Automated real-time pricing pipeline for smarter decision-making  
 
-Engineered 50+ HR features and generated calibrated employee risk scores
+### 📊 BI Analyst — *TELUS*  
+📍 *Montreal, Canada | 2023*  
+- Built dynamic dashboards in Tableau & Looker for CX leadership  
+- Developed emotion detection models from audio using CNNs & LSTMs  
+- Cut down report prep time by 40% with automated workflows  
 
-Automated UKG → Azure Data Lake ingestion enabling Power BI & IBM Cognos reporting
+---
 
-Conducted Cross-Lagged Panel Modeling on multi-wave surveys to uncover causal drivers of engagement
+## 🎓 Education  
 
-Senior Analyst — PSP Investments
+- 🎓 **M.Sc. Data Science & Business Analytics** — HEC Montréal *(2023)*  
+- 🏗️ **M.Sc. Industrial Engineering** — Tarbiat Modares University *(2019)*  
+- ⚙️ **B.Sc. Industrial Engineering** — Iran University of Science & Technology *(2017)*  
 
-📍 Montreal, Canada | 2024–2025
+---
 
-Built scalable HR dashboards leveraging Workday + Python + Power BI
+## 🚀 Featured Projects
 
-Developed unified HR metric models across business lines
+### 🎙️ Emotion Recognition System  
+Deep learning pipeline for detecting emotional tone in speech using neural nets + feature extraction.
 
-Drove adoption of analytics outputs across HR teams
+### 🧾 NLP-Powered Research Classifier  
+Classifies academic paper abstracts into disciplines using topic modeling & vectorization techniques.
 
-Data Scientist — Pricepoint
+### 📽️ Smart Recommender System  
+Built a hybrid recommendation engine with collaborative filtering & deep learning enhancements.
 
-📍 Montreal, Canada | 2024
+### ⚡ Energy Load Forecasting  
+Ensemble model combining statistical + ML techniques for predicting electricity demand trends.
 
-Improved forecasting accuracy by 25% through ML on booking trends
+---
 
-Conducted pricing experiments improving revenue optimization
+## 🧠 Research Publication  
 
-Automated real-time dynamic pricing pipeline
+📄 *"The impact of recency and adequacy of historical information on sepsis predictions using ML"* (2022)  
+🔗 [View on Google Scholar](https://scholar.google.com/citations?user=GtI11zYAAAAJ&hl=en)
 
-BI Analyst — TELUS
+---
 
-📍 Montreal, Canada | 2023
-
-Delivered visualization solutions for CX leadership using Tableau & Looker
-
-Built speech emotion recognition models leveraging CNN + LSTM architectures
-
-Reduced reporting cycle time by 40% via automation
-
-🎓 Education
-
-M.Sc. Data Science & Business Analytics — HEC Montréal (2023)
-
-M.Sc. Industrial Engineering — Tarbiat Modares University (2019)
-
-B.Sc. Industrial Engineering — Iran University of Science & Technology (2017)
-
-🚀 Featured Projects
-
-🎙 Emotion Recognition System — End-to-end deep learning pipeline to detect emotional tone in speech
-
-🧾 NLP Research Classifier — Topic modeling + vectorization to categorize academic abstracts
-
-📽 Smart Recommender Engine — Hybrid CF + deep learning architecture
-
-⚡ Electricity Load Forecasting — Ensemble forecasting model for demand prediction
-
-🧠 Research Publication
-
-📄 "The impact of recency and adequacy of historical information on sepsis predictions using ML" (2022)
-🔗 View on Google Scholar
-
-🌍 Based in Canada — Open to collaborations, consulting, and AI-driven pricing & analytics projects ✉️
+🌍 *Based in Canada | Open to collaborations, consulting, and
